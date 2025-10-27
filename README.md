@@ -65,7 +65,8 @@ Open your browser at http://localhost:5173
 
 
 ## Deployment
-This project can be deployed to Vercel, Netlify, or GitHub Pages. After deployment, add the live URL to your README.
+This project has been deployed to Vercel.
+### URL = https://react-js-jsx-and-css-mastering-fron-nine-topaz.vercel.app/ 
 
 ## Notes
 
