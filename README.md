@@ -55,13 +55,13 @@ Open your browser at http://localhost:5173
 
 ## Screenshots
 ### Home Page
-![Home Page](screenshot/screenshots/home.png)
+![Home Page](screenshots/home.png)
 
 ### API Data Explorer
-![API Data Explorer](screenshot/screenshots/api.png)
+![API Data Explorer](screenshots/api.png)
 
 ### Task Manager
-![Task Manager](screenshot/screenshots/tasks.png)
+![Task Manager](screenshots/task.png)
 
 
 ## Deployment
